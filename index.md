@@ -13,3 +13,5 @@ Marvin is one of the major characters of The Hitchhikers Guide Through The Galax
 * has a brain the size of a planet - seldomly used
 * can wait for ages
 * is mostly harmless
+
+> I didn't ask to be made: no one consulted me or considered my feelings in the matter. I don't think it even occurred to them that I might have feelings. After I was made, I was left in a dark room for six months... and me with this terrible pain in all the diodes down my left side. I called for succour in my loneliness, but did anyone come? Did they hell. My first and only true friend was a small rat. One day it crawled into a cavity in my right ankle and died. I have a horrible feeling it's still there...
